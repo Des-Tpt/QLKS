@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{409801A2-D937-4834-AF7F-347F0F1067D6}|QuanlykhachSan\\QuanlykhachSan.csproj|e:\\project\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\quanlykhachsan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{409801A2-D937-4834-AF7F-347F0F1067D6}|QuanlykhachSan\\QuanlykhachSan.csproj|solutionrelative:quanlykhachsan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409801A2-D937-4834-AF7F-347F0F1067D6}|QuanlykhachSan\\QuanlykhachSan.csproj|e:\\project\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\quanlykhachsan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{409801A2-D937-4834-AF7F-347F0F1067D6}|QuanlykhachSan\\QuanlykhachSan.csproj|solutionrelative:quanlykhachsan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409801A2-D937-4834-AF7F-347F0F1067D6}|QuanlykhachSan\\QuanlykhachSan.csproj|e:\\project\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\quanlykhachsan\\secondaryform\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{409801A2-D937-4834-AF7F-347F0F1067D6}|QuanlykhachSan\\QuanlykhachSan.csproj|solutionrelative:quanlykhachsan\\secondaryform\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{409801A2-D937-4834-AF7F-347F0F1067D6}|QuanlykhachSan\\QuanlykhachSan.csproj|e:\\project\\qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\quanlykhachsan\\secondaryform\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{409801A2-D937-4834-AF7F-347F0F1067D6}|QuanlykhachSan\\QuanlykhachSan.csproj|solutionrelative:quanlykhachsan\\secondaryform\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\Project\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\QuanlykhachSan\\MainForm.cs",
+              "RelativeDocumentMoniker": "QuanlykhachSan\\MainForm.cs",
+              "ToolTip": "E:\\Project\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\QuanlykhachSan\\MainForm.cs",
+              "RelativeToolTip": "QuanlykhachSan\\MainForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAIAywEkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:38:05.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Project\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\QuanlykhachSan\\MainForm.cs",
+              "RelativeDocumentMoniker": "QuanlykhachSan\\MainForm.cs",
+              "ToolTip": "E:\\Project\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\QuanlykhachSan\\MainForm.cs [Design]",
+              "RelativeToolTip": "QuanlykhachSan\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:47:47.522Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDon.cs [Design]",
+              "DocumentMoniker": "E:\\Project\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\QuanlykhachSan\\SecondaryForm\\HoaDon.cs",
+              "RelativeDocumentMoniker": "QuanlykhachSan\\SecondaryForm\\HoaDon.cs",
+              "ToolTip": "E:\\Project\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\QuanlykhachSan\\SecondaryForm\\HoaDon.cs [Design]",
+              "RelativeToolTip": "QuanlykhachSan\\SecondaryForm\\HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:13:58.628Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatPhong.cs [Design]",
+              "DocumentMoniker": "E:\\Project\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\QuanlykhachSan\\SecondaryForm\\DatPhong.cs",
+              "RelativeDocumentMoniker": "QuanlykhachSan\\SecondaryForm\\DatPhong.cs",
+              "ToolTip": "E:\\Project\\Qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\QuanlykhachSan\\SecondaryForm\\DatPhong.cs [Design]",
+              "RelativeToolTip": "QuanlykhachSan\\SecondaryForm\\DatPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T09:59:18.311Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
